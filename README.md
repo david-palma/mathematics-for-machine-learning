@@ -6,15 +6,15 @@ This repository is meant to provide a comprehensive foundation in the essential 
 
 There are three courses in this Specialisation, each of which contains a different number of assignments.
 
-### Course 1: Linear Algebra for Machine Learning
+### [Course 1: Linear Algebra for Machine Learning](1%20-%20Linear%20algebra/README.md)
 
 This course on Linear Algebra provides an introduction to the fundamental principles of linear algebra and their application to vectors and matrices. It covers key topics such as eigenvalues and eigenvectors, demonstrating their use in problem-solving. The course also explores the application of these concepts in data-driven tasks, including image rotation and eigenvector extraction for analysing the Pagerank algorithm. Practical implementation of concepts will complement theoretical exploration, with Python code blocks and Jupyter notebooks introduced later. These will be concise, focused on core concepts, and designed to support individuals with minimal coding experience.
 
-### Course 2: Multivariate Calculus for Machine Learning
+### [Course 2: Multivariate Calculus for Machine Learning](2%20-%20Multivariate%20calculus/README.md)
 
 This course offers an introduction to the multivariate calculus required for various machine learning techniques. It begins with a review of the basic "rise over run" slope formula, progressing to the formal definition of the gradient. The course then focuses on developing tools to simplify calculus applications, including the calculation of vectors that indicate steepest ascent on multidimensional surfaces, demonstrated through an interactive game.
 It also covers the use of calculus in function approximation and in assessing the accuracy of these approximations, as well as its role in training neural networks and in linear regression models.
 
-### Course 3: Dimensionality Reduction for Machine Learning
+### [Course 3: Dimensionality Reduction for Machine Learning](3%20-%20PCA/README.md)
 
 This course introduces the mathematical foundations for deriving Principal Component Analysis (PCA), a key technique for dimensionality reduction. It covers basic statistical concepts, such as mean values and variances, and includes the computation of distances and angles between vectors using inner products. The course also explores orthogonal projections of data onto lower-dimensional subspaces. Using these tools, PCA will be derived as a method that minimizes the average squared reconstruction error between data points and their reconstructed representations.
